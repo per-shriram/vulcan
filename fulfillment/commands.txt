@@ -1,0 +1,6 @@
+gcloud beta functions deploy helloHttp --trigger-http
+
+gcloud beta functions describe helloHttp
+
+URL to hit: https://us-central1-revx-ec72b.cloudfunctions.net/helloHttp
+
